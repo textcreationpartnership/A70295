@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and representation of the sufferings of several peaceable, and innocent subjects, called by the name of Anabaptists, inhabitants in the county of Kent, and now prisoners in the goal of Maidstone, for the testimony of a good conscience. Together with their free and faithful acknowledgement of the King's authority and dignity in civil things, over all manner of persons, ecclesiastical and civil, within His Majesties dominions. With their reasons, meriting the King's protection in their civil and spiritual rights, equal with other His Majesties obedient subjects. Humbly offered to the King's Majesty, and the consideration of our fellow brethren and subjects. Well worthy general observation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70295</idno>
+            <idno type="STC">Wing H3444</idno>
+            <idno type="STC">ESTC R214927</idno>
+            <idno type="EEBO-CITATION">99826970</idno>
+            <idno type="PROQUEST">99826970</idno>
+            <idno type="VID">31382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1779:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and representation of the sufferings of several peaceable, and innocent subjects, called by the name of Anabaptists, inhabitants in the county of Kent, and now prisoners in the goal of Maidstone, for the testimony of a good conscience. Together with their free and faithful acknowledgement of the King's authority and dignity in civil things, over all manner of persons, ecclesiastical and civil, within His Majesties dominions. With their reasons, meriting the King's protection in their civil and spiritual rights, equal with other His Majesties obedient subjects. Humbly offered to the King's Majesty, and the consideration of our fellow brethren and subjects. Well worthy general observation.</title>
+                  <author>Jeffery, William, 1616-1693.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith, at the Elephant and Castle, near Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660 [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Signed by us in the name of the Baptists, now prisoners in the goal at Maydstone, dated the 25th day of the 11th moneth commonly called January. William Jeffery. George Hammon. John Reve. James Blackmore.</note>
+                  <note>Publication date given according to Lady Day Dating.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31382:1"/>
+            <pb facs="tcp:31382:1" rendition="simple:additions"/>
+            <p>The HUMBLE PETITION AND REPRESENTATION OF THE Sufferings of ſeveral Peaceable, and Innocent Subjects, Called by the Name of ANABAPTISTS, Inhabitants in the County of <hi>Kent,</hi> and now Priſoners in the Goal of <hi>Maidſtone,</hi> for the Teſtimony of a good Conſcience.</p>
+            <p>Together with their Free and Faithful Acknowledgement of the King's Authority and Dignity in Civil things, over all man<g ref="char:EOLhyphen"/>ner of Perſons, Eccleſiaſtical and Civil, within His Majeſties Dominions.</p>
+            <p>With their <hi>Reaſons,</hi> Meriting the King's Protection in their Ci<g ref="char:EOLhyphen"/>vil and Spiritual Rights, equal with other His Majeſties Obe<g ref="char:EOLhyphen"/>dient Subjects.</p>
+            <p>Humbly Offered to the King's Majeſty, and the Conſi<g ref="char:EOLhyphen"/>deration of our Fellow Brethren and Subjects. Well worthy General Obſervation.</p>
+            <q>
+               <bibl>Act. 17.</bibl>
+               <p>He hath made of one Bloud all Nations of men, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Job 4.7.</bibl>
+               <p>Remember I pray thee, who ever periſhed being Innocent? or where were the Upright deſtroyed?</p>
+            </q>
+            <q>
+               <bibl>Job. 34.28.</bibl>
+               <p>So that they have Cauſed the Voice of the Poor to come unto him, and he hath heard the Cry of the Afflicted.</p>
+            </q>
+            <q>
+               <bibl>Rom. 14.3.</bibl>
+               <p>Let not him that Eateth, deſpiſe him that Eateth not, and let not him which eateth not, condemne him that Eateth; for God hath received him.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Smith,</hi> at the <hi>Elephant</hi> and <hi>Caſtle,</hi> near Temple-Bar, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31382:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:31382:2" rendition="simple:additions"/>
+            <head>TO HIS MAJESTY, Charles the Second, KING of <hi>England, Scotland, France</hi> and <hi>Ireland;</hi> and the Dominions thereunto belonging.</head>
+            <opener>
+               <salute>May it Pleaſe Your MAJESTY,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as by Authority derived from your Self, ſeveral of us your Subjects, inhabitants in the County of <hi>Kent,</hi> are now impriſoned; it therefore much concerns Thee, <hi>O King,</hi> to hear what Accompt we give of our preſent diſtreſſed Condition. <hi>Thou</hi> haſt al<g ref="char:EOLhyphen"/>ready ſeen our <hi>Confeſſion of Faith,</hi> wherein our peace<g ref="char:EOLhyphen"/>able <hi>Reſolutions</hi> were declared; we have not viola<g ref="char:EOLhyphen"/>ted any part thereof that ſhould cauſe that <hi>Liberty</hi> pro<g ref="char:EOLhyphen"/>miſed from <hi>Breda,</hi> to be with-drawn; And now for our
+<pb n="4" facs="tcp:31382:3" rendition="simple:additions"/>
+               <hi>Principles,</hi> that moſt particularly relate to <hi>Magiſtrates</hi> and <hi>Government,</hi> we have with all clearneſſe laid them here before <hi>Thee,</hi> Humbly beſeeching they may be Read patiently; and what we ſay, weighed in the ballance of the Sanctuary; and then judge how worthy we are of either <hi>Bonds</hi> or <hi>Impriſonment;</hi> and this we the more earneſtly deſire, becauſe not only our own lives is in danger, but alſo an irreſiſtable Deſtruction co<g ref="char:EOLhyphen"/>meth on our Wives and little Ones, by that violence which is now exerciſed on us. Diſdain not our plainneſs of Speaking, ſeeing the <hi>Great God</hi> accepts of the like. And now, <hi>O King,</hi> that all <hi>Thy</hi> Proceedings (both towards us, and all men) may be ſuch as may be plea<g ref="char:EOLhyphen"/>ſing unto the eternal God (in whoſe hands your and our breath is, who ere long will judge both quick and dead, according to their works) is the Prayers of <hi>Thy</hi> Faith<g ref="char:EOLhyphen"/>ful Subjects and Servants,</p>
+            <closer>
+               <signed>The Priſoners in the Goale of <hi>Maidſtone,</hi> for the Teſtimony of a good Conſcience.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:31382:3" rendition="simple:additions"/>
+            <head>A free and faithful acknowledgement of the Kings Authority and Dignity in Civil things, over all man<g ref="char:EOLhyphen"/>ner of Perſons, <hi>Eccleſiaſtical</hi> and <hi>Civil,</hi> within His <hi>Majeſties</hi> Dominions, &amp;c.</head>
+            <p>GOD that hath made of one Bloud all Nations of men,<note place="margin">
+                  <hi>Acts</hi> 17.26.</note> for to dwell on all the face of the Earth; and hath determined the Times before appointed, and the bounds of their Habitation; hath made this Land the Place of our Na<g ref="char:EOLhyphen"/>tivity and Abode, by which we have an Intereſt in Com<g ref="char:EOLhyphen"/>mon with others Thy Subjects in this Nation, ſo that none can Deprive us of that which is our Propriety, and Native Birth-rights, without violating the Laws of God and Nature: Yet (may it pleaſe Thee, O King,) as if that Law of <hi>doing unto others, as we would be done unto,</hi> had never been Written, neither any Bounds ſet unto the Wills of men: We Thy Impriſoned Subjects, have (ſome of us) had our Houſes broken open in the dead of the Night, without producing any Authority from Thee, or any inferior Miniſter under Thee; our Goods and Cattel taken away from ſome others, and yet detain<g ref="char:EOLhyphen"/>ed from us; Our Bodies, ſome taken from our own Dwellings, and others from our peaceable Meetings, and made Priſoners; and this done unto many of us ſome Dayes before Thy <hi>Proclamation</hi> was Publiſhed; which proceedings doth bring great Diſtreſs and Ruine to our ſelves and Families; for ſuch is our mean Condi<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:31382:4" rendition="simple:additions"/>in this World, that (almoſt) all of us have our out<g ref="char:EOLhyphen"/>ward Subſiſtance, through the bleſſing of God on our daily Labours; Alſo ſome amongſt us, that were Em<g ref="char:EOLhyphen"/>ployed in the Publick Service at <hi>Chatham,</hi> and at <hi>Sea,</hi> being yet unpaid; The Bread which our Families have Eat this 10 or 12 Months, hath been taken up upon Credit; and all of us being detained from our Employ<g ref="char:EOLhyphen"/>ments, the Cryes of our Families (who ſuffer Hunger) becomes great.</p>
+            <p>And now, O King, that the Oppreſſed may be Re<g ref="char:EOLhyphen"/>lieved, and Juſtice and Judgment Executed amongſt men, and the Creation of God kept from being a Chaos of Confuſion: The God of Order hath Ordained Go<g ref="char:EOLhyphen"/>vernment, and ſetteth up Magiſtrates, to Execute ſuch Power as is given from himſelf, for the Ends aforeſaid: And this we have alwayes Aſſerted, in our Diſcourſes and Writings, as appears in our <hi>Declaration of Faith,</hi> Printed about Three Months before Thy coming over, and Re-printed and Preſented to Thy Self above Four Months ſince.</p>
+            <p>And as for Thy Self, O King, we do believe, and do freely acknowledge, That the Authority and Digni<g ref="char:EOLhyphen"/>ty that Thou now haſt, in being Chief Governour over this Kingdom and its Dominions, is given Thee of God, whoſe the Kingdomes of the World are, <hi>and he giveth them unto whomſoever he vvill,</hi> Dan. 5.21. And <hi>Promotion cometh neither from the Eaſt, nor from the Weſt, nor from the South; but God is the Judge, he putteth dovvn one, and ſet<g ref="char:EOLhyphen"/>teth up another,</hi> Pſal. 75.6, 7. So ſaith the New Teſtament, <hi>The Povvers that be, are ordained of God,</hi> Rom. 13.1.</p>
+            <p>And ſeeing the Lord Jeſus hath commanded us his Servants, <hi>To give unto Ceſar the things that are Ceſars,</hi> Mat. 22.21. Therefore ſhall we pay Cuſtome and Tri<g ref="char:EOLhyphen"/>bute
+<pb facs="tcp:31382:4"/>
+               <pb facs="tcp:31382:5"/>
+               <pb n="7" facs="tcp:31382:5" rendition="simple:additions"/>unto Thee; and in all temporal Cauſes and Things, ſhall we yield cheerful obedience, not onely to thy ſelf as Supream, but alſo to all inferiour Magiſtrates ſent by thee; and this we do not only for wrath, but alſo for Conſcience ſake, knowing that God hath given thee Power, to puniſh any that ſhall do that unto another, which he would not have done unto himſelf, and in ſo doing thou wilt be a Miniſter of God, to us for good, a revenge to execute wrath upon him that doth evil.</p>
+            <p>And whereas it is alleged againſt us as a Crime, that we cannot acknowledge any Authority that God hath given Thee, in ſpiritual Things or Cauſes; yet if thou wouldſt condeſcend to the reading, and ferious conſidering our enſuing Reaſons, it is poſſible we may be juſtified by Thee, as in this matter we are in the ſight of God, whoſe Word not onely in this, but in all other Cauſes, we de<g ref="char:EOLhyphen"/>ſire to make our Rule. O King, we therefore beſeech Thee to conſider, if Thou haſt any power to be a Lord over our Faith, or by outward force to impoſe any thing, in the Worſhip of God, on our Conſciences, it is given unto Thee as Thou art a Magiſtrate, or as Thou art a Chriſtian; but that Thou haſt no ſuch power given unto Thee of God, as thou art a Magiſtrate appears;</p>
+            <p n="1">1. Becauſe if Magiſtrates as ſuch, have ſuch an Au<g ref="char:EOLhyphen"/>thority, then all Magiſtrates in all Nations have the ſame Power; then if we lived in <hi>Turky</hi> muſt we receive the choran, and be a Worſhipper of <hi>Mahomet?</hi> if in <hi>Spain,</hi> be a Papiſt? in <hi>England</hi> ſometimes a Papiſt, as in <hi>Henry</hi> the 8th dayes? a Proteſtant in <hi>Edvvard</hi> the 6th? a Pa<g ref="char:EOLhyphen"/>piſt again in Queen <hi>Maries?</hi> and a Proteſtant again in Queen <hi>Elizabeths?</hi> and ſo for ever as the Authority changes Religion, we muſt do the ſame; but God for<g ref="char:EOLhyphen"/>bid,</p>
+            <pb n="8" facs="tcp:31382:6" rendition="simple:additions"/>
+            <p n="2">2. Becauſe the Apoſtles themſelves (that gave forth thoſe commandements that are written in Scripture, to be obedient to Magiſtrates) refuſed to be obedient to their Rulers, when they were commanded to forbear,<note place="margin">
+                  <hi>Acts</hi> 4.19. <hi>chap.</hi> 5.29.</note> that which they judged part of the Worſhip of God, and ſaid, <hi>Whe<g ref="char:EOLhyphen"/>ther it be right in the ſight of God, to har<g ref="char:EOLhyphen"/>ken unto you more than unto God, judge ye.</hi>
+            </p>
+            <p n="3">3. All the Scriptures of the New Teſtament, that enjoyns obedience unto Magiſtrates, were written when the <hi>Romans</hi> had the Empire of the world, whoſe Empe<g ref="char:EOLhyphen"/>rours were for the moſt part (if not all) Heatheniſh I<g ref="char:EOLhyphen"/>dolators for the firſt 300 years, until <hi>Conſtantines</hi> time; it therefore cannot be ſuppoſed, that any of theſe Texts of Scripture that calls for obedience to Magi<g ref="char:EOLhyphen"/>ſtrates, intends an obedience in matters of Faith or Wor<g ref="char:EOLhyphen"/>ſhip, for then the Chriſtians that lived under thoſe Em<g ref="char:EOLhyphen"/>perours, muſt needs have denyed Chriſt, and worſhip<g ref="char:EOLhyphen"/>ed the <hi>Roman</hi> gods, as ſome of the Emperours com<g ref="char:EOLhyphen"/>manded.</p>
+            <p>And now O King, that no man as he is a Chriſtian, hath power to be a Lord over anothers Faith, or by out<g ref="char:EOLhyphen"/>ward force to impoſe any thing in the Worſhip of God, is as clear,</p>
+            <p n="1">1. Becauſe the Lord Jeſus Himſelf, nor his Diſci<g ref="char:EOLhyphen"/>ples, would never by any outward force compel men to receive them or their Doctrine; for when the Diſci<g ref="char:EOLhyphen"/>ples of Chriſt (ſuppoſing they might uſe violence as under the Law) would have commanded fire to come from Heaven (as <hi>Elias</hi> did) to conſume them that would not receive them; Chriſt turned and rebuked them, ſaying, <hi>Ye know not what ſpirit ye are of, for the
+<pb n="9" facs="tcp:31382:6" rendition="simple:additions"/>Son of man is not come to deſtroy mens lives, but to ſave them.</hi>
+            </p>
+            <p n="2">2. If any men under Heaven have had any ſuch power in the dayes of the Goſpel, the Apoſtles and El<g ref="char:EOLhyphen"/>ders in the primitive times muſt needs have had it, but this they diſowned; the Apoſtle <hi>Paul</hi> in 2 <hi>Cor.</hi> 1.24. ſaith thus, <hi>Not for that we have dominion over your Faith, but are helpers of your joy, for by Faith you ſtand;</hi> yea the Lord Jeſus when he ſtrove for Domination forbids it, ſaying, <hi>Ye know that the Princes of the Gemiles exerciſe Dominion over them,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 25.26.</note> 
+               <hi>and they that are great do exerciſe authority up<g ref="char:EOLhyphen"/>on them, but it ſhall not be ſo amongſt you;</hi> Even ſo ſaith <hi>Peter,</hi> ſpeaking to the Elders, <hi>Feed the flock of God which is amongſt you, taking the overſight thereof, not by conſtraint, but willingly; not for filthy lucre, but of a rea<g ref="char:EOLhyphen"/>dy mind, neither as being Lords over Gods Heritage, but be examples to the flock;</hi> and in truth, the Apoſtles and Diſciples were not to uſe any external force to carry on their Maſters work, but onely by ſhewing the terrours of the Lord, were to perſwade men; and in caſe of reſi<g ref="char:EOLhyphen"/>ſtance, to ſhake the duſt from their feet, as a witneſſe a<g ref="char:EOLhyphen"/>gainſt their oppoſers.</p>
+            <p n="3">3. It is very plain, that the Lord Jeſus himſelf in his parrable of the Tares and Wheat, forbid and force to be exerciſed upon falſe Worſhippers, as ſuch,<note place="margin">
+                  <hi>Mat.</hi> 13.</note> for by the Tares which he forbids the pulling up, cannot be intended the tranſgreſ<g ref="char:EOLhyphen"/>ſors of the ſecond table, ſuch as Thieves, Murderers, <hi>&amp;c.</hi> becauſe all confeſſeth with one conſent, that the Magiſtrates Authority reaches ſuch, but thoſe that Chriſt Jeſus would have remain amongſt his Wheat, in the field of the world, is the Children of the wicked One;
+<pb n="10" facs="tcp:31382:7" rendition="simple:additions"/>through Idolatry and Will-worſhip; this will further ap<g ref="char:EOLhyphen"/>pear, if the 28, 29, 30. <hi>verſ.</hi> be compared with the 38, 39. of the ſame Chapter; and the reaſon the Lord Jeſus gives, why both Tares and Wheat muſt grow toge<g ref="char:EOLhyphen"/>ther, (O <hi>King</hi> that it were engraven with the point of a Diamond, and often laid before Thee) is, leaſt in ga<g ref="char:EOLhyphen"/>thering up the Tares, the Wheat alſo be rooted up with them; How ſad is it to remember how in all ages ſince Chriſt, very ſtrange miſtakes have been on this account;<note place="margin">
+                  <hi>Matth.</hi> 26.65.</note> the Lord of Life himſelf was put to death, for ſuppoſed Blaſphemy and wickedneſſe,<note place="margin">
+                  <hi>John</hi> 19.12.</note> and ac<g ref="char:EOLhyphen"/>cuſed for being an enemy to <hi>Ceſar,</hi> and this done unto him by a people that had the Law of God amongſt them, and were famous in the world for their Earthly Wiſdom and Knowledge. <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> was ſtoned,<note place="margin">
+                  <hi>Acts</hi> 6.13, 14. <hi>chap.</hi> 12.2.</note> and <hi>James</hi> the Apoſtle killed with the Sword, ſuppoſed to be Tares, or the Children of the Wicked One, when they were the Pretious Wheat of God, the Chriſtians that ſuffered in the ten Perſecutions, Were they not accuſed of being peſtilent fel<g ref="char:EOLhyphen"/>lows, movers of Sedition,<note place="margin">
+                  <hi>Act.</hi> 24.5.12. <hi>chap.</hi> 17.6, 7.</note> turners of the world upſide down, Enemies to <hi>Ce<g ref="char:EOLhyphen"/>ſar,</hi> when the contrary was moſt true; and they will be found to be the Faithful Martyrs of Je<g ref="char:EOLhyphen"/>ſus? So in latter times many of thoſe that have been put to death for Hereſie and Blaſphemy, are by this Age acknowledged to be the Saints of God: O <hi>King,</hi> that our Words might be acceptable to thee, conſider that neither Thy ſelf nor Councellors have the ſpirit of infal<g ref="char:EOLhyphen"/>lability; if the Apoſtles that had an extraordinary ſpirit of diſcerning, muſt not pluck up the Tares, left they
+<pb n="11" facs="tcp:31382:7" rendition="simple:additions"/>root up the Wheat alſo: How can any Prince on Earth undertake a work ſo dangerous? It is poſſible many of thoſe that are accounted falſe Worſhippers, and Here<g ref="char:EOLhyphen"/>ticks in this day, may (at the time when God ſhall Judge the World in Righteouſneſs) be found the Ser<g ref="char:EOLhyphen"/>vants of the Moſt-High God; Remember we pray Thee, that thoſe that lived in the dayes of the Lord Jeſus, ac<g ref="char:EOLhyphen"/>cuſed their Fathers, for being guilty of the blood of the Prophets, ſaying, <hi>If we had been in the dayes of our Fathers, we would not have been partakers with them in the blood of the Prophets,</hi> Math. 23.29, 30. yet themſelves killed the Lord of Life; The Romiſh Church alſo ſaith, if they had lived in the dayes of the Heathen Emperors, we would not have been partakers with them in the blood of the Chriſtians, yet puts to death many as righ<g ref="char:EOLhyphen"/>teous as they were; and now many of thy Subjects in this Nation, are ready to ſay, If we had lived in the dayes of Queen <hi>Mary,</hi> we would not have been guilty with our Fathers in the blood of thoſe good men, that then ſuffered; yet ſuch a ſpirit of Perſecution is now ri<g ref="char:EOLhyphen"/>ſen up, as (if not reſtrained) will terminate in the blood of many good men, and ſo bring down the wrath of God upon this Generation, and there will be no re<g ref="char:EOLhyphen"/>medy.</p>
+            <p n="4">4. To inflict temporal puniſhments upon any of us thy Subjects, for not conforming to Thy Decrees, that reſtrains us from the Worſhip that we know to be of God; Is it not a breach of that Royal Law, that com<g ref="char:EOLhyphen"/>mands Thee, <hi>That vvhatſoever ye vvould that men ſhould do to you, do you even ſo to them, for this is the Lavv and the Prophets,</hi> Mat. 7.12. And we would in all humility offer to Thy conſideration, if Thy Soul were in our Souls ſtead, wouldeſt thou be ſatisfied with the ſame meaſure,
+<pb n="12" facs="tcp:31382:8" rendition="simple:additions"/>as is now dealt unto us, when neither the God of Hea<g ref="char:EOLhyphen"/>ven, nor our own Conſciences doth condemn us of any evil intended againſt Thy Perſon or Authority? nor can the greateſt of our Enemies make any due proof of any Combination or Plotting with any upon the face of the Earth, for the diſturbance of the publick Peace; And this we can with boldneſs ſay, becauſe we know our own Innocency.</p>
+            <p>But whereas it is Objected, That the Kings of <hi>Iſrael</hi> and <hi>Judah,</hi> under the Old Teſtament, had power in ſpi<g ref="char:EOLhyphen"/>ritual Cauſes, and did puniſh Blaſphemy and Idolatry, which are crimes of the higheſt nature againſt God, we confeſs they had ſuch power, which was given to them in plain Precepts, written in the Law of <hi>Moſes;</hi> but the Goſpel that we live under is another Diſpenſation, in which the Lord Jeſus is the onely Law-giver, who doth not (as <hi>Moſes</hi>) proceed againſt the Tranſgreſſors of his Precepts, by external force and power, to the deſtroying them in their Bodies and Eſtates in this life,<note place="margin">1 <hi>Theſ.</hi> 1.9. 2 <hi>Pet.</hi> 3.9. <hi>Acts</hi> 17.31.</note> but in long-ſuffer<g ref="char:EOLhyphen"/>ing waits on men, not willing they ſhould periſh, but rather that they ſhould repent and be ſaved; and when any continues in diſobedience to the Goſpel, his puniſhment is eternal, in the world to come; the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> teſtifies of himſelf, <hi>That he vvas a Blaſphemer, and Perſecutor,</hi> 1 Tim. 1.20. And if the mind of God had been, that he ſhould have ſuffered death in that condition, How ſhould he have had repentance given him, and been ſuch a glorious Inſtrument in the Church, as afterward he was?</p>
+            <p>Furthermore, it is too well known, that the Jews are the greateſt Blaſpemers againſt our Lord Jeſus Chriſt,
+<pb n="13" facs="tcp:31382:8" rendition="simple:additions"/>as is on the earth; yet it is not the Mind of the Lord they ſhould be deſtroyed from the Face of the Earth, for how then ſhould the Scripture be ful<g ref="char:EOLhyphen"/>filled, wherein God hath promiſed to call them, and make them the moſt glorious Nation in the World? Oh how can they be converted, if they be not permitted where the Goſpel is Preached? We ſpeak not this in favour of any blaſphemy, for our Souls abhors it, but becauſe we would have the Lives of men as pretious in Thy Eyes, O King, as they are in the Eyes of the Righ<g ref="char:EOLhyphen"/>teous and moſt Holy God.</p>
+            <p n="5">5. As it is no wayes lawful from the Word of God, for Chriſtian Magiſtrates to deſtroy, and root out the contrary minded in Religious Matters (although Idola<g ref="char:EOLhyphen"/>ters.) So ſuch proceedings may many times prove incon<g ref="char:EOLhyphen"/>ſiſtent with the very being of Nations; for ſuppoſe any Nation were wholly Heatheniſh Idolators, and the Word of God coming in amongſt them, ſhould convert the chief Magiſtrates, and twentieth part of the Nation more; muſt he with that twentieth part deſtroy all the other nineteen, if they will not be converted, but conti<g ref="char:EOLhyphen"/>nue in their Heatheniſh Idolatry? It cannot poſſibly be ſuppoſed to be warrantable.</p>
+            <p>From all this that we have ſaid, thou O King, mayeſt ſee, that not without Grounds, do we de<g ref="char:EOLhyphen"/>ny the taking the <hi>Oath</hi> of thy <hi>Supremacy,</hi> which calls for obedience as well in Spiritual &amp; Eccle<g ref="char:EOLhyphen"/>ſiaſtical things and Cauſes, as Temporal; not but that we can freely acknowledge thee to be Supream Governour of all Perſons, as well Ec<g ref="char:EOLhyphen"/>cleſiaſtical
+<pb n="14" facs="tcp:31382:9" rendition="simple:additions"/>as Temporal, but ſtill in temporal Cauſes and things: We do alſo as freely Re<g ref="char:EOLhyphen"/>nounce all forreign Juriſdictions and Powers whatſoever, that any on the Earth may pretend to have over any of thy Dominions or Subjects. And whereas ſome have ſaid, that no more is required in the Oath, Conſidered together with the <hi>Proviſo</hi> in the Statute of the 5 <hi>Elizabeth,</hi> and the Queens <hi>Admonition:</hi> Yet we Humbly con<g ref="char:EOLhyphen"/>ceive there is, Becauſe the Queen both in the <hi>Pro<g ref="char:EOLhyphen"/>viſo</hi> and <hi>Admonition,</hi> Challenges ſuch a Power, as was Challenged by her Father, King <hi>Henry the</hi> 8. which was to Burn his Subjects at the Stake for their Diſſenting from him in Religious Matters (as by his practice appeared) And the Queen her ſelf exerciſed the ſame Authority, in putting ſome to Death for their Conſcience in Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>And whereas many of us that are now priſo<g ref="char:EOLhyphen"/>ners cannot take the Oath of Allegiance, becauſe we cannot ſwear at all, the Lord Chriſt having forbidden, in that fifth of <hi>Mat.</hi> 33. compared with <hi>Iames</hi> 5.12. not onely vain Oaths, but alſo ſuch ſwearing as was delivered of old time, and lawful under the Law, as in our Conſciences we are perſwaded, and therefore before now un<g ref="char:EOLhyphen"/>der former powers have denyed to ſwear; Yet
+<pb n="15" facs="tcp:31382:9" rendition="simple:additions"/>(God is our Witneſſe, who is the Searcher of all Hearts) we deny not this Oath, becauſe we would not yield due Subjection and Obedience to Thee and Thy Authority; for this we ſay, in the preſence of him that ſhall judge the quick and dead, we do without any deceit, promiſe to live peaceably under Thy Government, and in caſe any thing ſhould be by thee co<g ref="char:cmbAbbrStroke">̄</g>manded in Spi<g ref="char:EOLhyphen"/>ritual Matters wherein we cannot obey, we ſhall not then take up any Carnal or Temporal Wea<g ref="char:EOLhyphen"/>pon againſt Thee or Thy Authority, but pati<g ref="char:EOLhyphen"/>ently ſuffer ſuch puniſhment as ſhall be inflicted on us for our Conſciences.</p>
+            <p>And now may it pleaſe Thee, O King, that theſe Engagements which we Humbly tender unto Thee, may be accepted of by Thee, and not deſtruction brought on us &amp; our Families for not taking of an Oath; when the engagements before recited, taken before ſome Juſtice of the Peace in a ſolemn manner, with calling God to witneſſe to the truth of what we ſay, without doubt anſwers the end of the Law, that enjoyns the Oath of Allegeance, and may be as much ſecurity from us to Thee, as if we took many Oaths. Why ſhould the very rigor of the Law be exerciſed on us? Yea, but that we fear we are too tedious unto Thee, we could make it clear, that the late dealing of thy inferiour Mi<g ref="char:EOLhyphen"/>niſters hath been ſuch tovvards us, as neither Lavv nor cuſtom hath preſcribed. And novv having faithfully laid our condition and Principles (ſo far as they relate
+<pb n="16" facs="tcp:31382:10" rendition="simple:additions"/>to Magiſtrates or Government) before thee; We therefore beſeech Thee, O King, that Liberty may be given us to vvorſhip our God, and ſuch bovvels of compaſſion be in Thee, as to give us ſuch ſpeedy relief as may be agreeable to the Mind of God, which made Heaven and Earth, which executed judgement for the oppreſſed, which giveth food to the hungry, the Lord looſeth the Priſoners, <hi>Pſalm.</hi> 146.7.</p>
+            <closer>
+               <signed>Signed by us in the Name of the Baptiſts, now Priſoners in the Goal at <hi>Maydſtone,</hi> William Jeffery. John Reve. George Hammon. James Blackmore.</signed>
+               <dateline>Dated <date>the 25th day of the 11th moneth commonly called <hi>January.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31382:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
